@@ -21,7 +21,7 @@ Este repositorio contiene el Manual de Operación para el Mecanizado CNC de Plac
 
 ## Manual
 
-**[Descargar Manual PDF](docs/Manual_CNC_PCB_SRM20.pdf)**
+**[Descargar Manual PDF](docs/Manual de Operación para el Mecanizado CNC de PCBs (Roland SRM-20) - Javier Fernando Salas Bocaz.pdf)**
 
 ## Público objetivo
 
