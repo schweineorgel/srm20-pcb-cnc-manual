@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)
+![Status](https://img.shields.io/badge/status-stable-green)
+
 # Manual de Operación CNC para PCBs  
 ## Roland SRM-20
 
