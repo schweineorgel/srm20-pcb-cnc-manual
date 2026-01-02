@@ -42,7 +42,7 @@ Este manual enfatiza el cumplimiento de:
 Este trabajo está bajo la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Ver archivo [LICENSE](LICENSE)
 
-## ✍ Autor
+## Autor
 
 Javier Fernando Salas Bocaz  
 FabLab INACAP Santiago Sur  
