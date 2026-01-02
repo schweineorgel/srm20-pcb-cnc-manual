@@ -21,7 +21,7 @@ Este repositorio contiene el Manual de Operación para el Mecanizado CNC de Plac
 
 ## Manual
 
-**[Descargar Manual PDF](docs/Manual_CNC_PCB_SRM20.pdf)**
+**[Descargar Manual PDF](docs/Manual_CNC_PCB_SRM20)**
 
 ## Público objetivo
 
@@ -42,7 +42,7 @@ Este manual enfatiza el cumplimiento de:
 Este trabajo está bajo la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Ver archivo [LICENSE](LICENSE)
 
-## ✍ Autor
+## Autor
 
 Javier Fernando Salas Bocaz  
 FabLab INACAP Santiago Sur  
