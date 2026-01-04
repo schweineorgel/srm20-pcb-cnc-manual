@@ -50,3 +50,7 @@ Ver archivo [LICENSE](LICENSE)
 Javier Fernando Salas Bocaz  
 FabLab INACAP Santiago Sur  
 Ingeniería en Electrónica y Sistemas Inteligentes
+
+## Agradecimientos
+
+Se agradece a Bastián Urra Alcaino por el apoyo y las discusiones técnicas durante el desarrollo de este manual.
